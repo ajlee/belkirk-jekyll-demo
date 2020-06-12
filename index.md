@@ -21,3 +21,4 @@ menu:
     weight: 1
 
 ---
+Some text about this PGR Blog site.... blah blah blah 

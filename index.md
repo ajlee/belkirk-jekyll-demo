@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: ''
+banner_image: "/uploads/2020/06/12/1280px-university_of_brighton_checkland_building2.JPG"
 layout: landing-page
 heading: University of Brighton PGR Blog
 partners:
